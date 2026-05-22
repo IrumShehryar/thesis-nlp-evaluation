@@ -58,7 +58,7 @@ Each article is annotated with:
 
 ## Results
 
-![Postal-Level Location Extraction Results](diagrams/results-graph.PNG)
+![Postal-Level Location Extraction Results](diagram/results-graph.PNG)
 
 | Configuration                | Exact Match         | Level Match         | City Match              |
 |------------------------------|---------------------|---------------------|-------------------------|
