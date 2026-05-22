@@ -1,0 +1,21 @@
+article_id,article_url,category,ranking_mode,resolver_mode,human_correct,system_name,match,human_level,system_level,level_match,human_city,system_city,city_match,system_postal,elapsed_s
+2,https://yle.fi/a/74-20207386,Local News,postal_first,geoapi,Olari,Olari,1,Espoo,POSTAL,0,,,0,,50.57
+4,https://yle.fi/a/74-20207144,Local News,postal_first,geoapi,Tšetšenia,Chechnya,0,PROVINCE,POSTAL,0,,,0,,81.61
+5,https://yle.fi/a/74-20208736,Authority Info,postal_first,geoapi,Islamabad,Islamabad,1,CITY,CITY,1,,Islamabad,0,,64.91
+12,https://yle.fi/a/74-20211696,Sports and Fitness,postal_first,geoapi,Milano,Milan,0,CITY,CITY,1,,Milan,0,,116.64
+17,https://yle.fi/a/74-20048640,City or Municipality,postal_first,geoapi,Oulu,Oulu,1,CITY,POSTAL,0,,,0,,93.33
+20,https://yle.fi/a/74-20210581,City or Municipality,postal_first,geoapi,Seinäjoki,Seinäjoki,1,CITY,POSTAL,0,,,0,,49.65
+23,https://yle.fi/a/74-20159710,Traffic and Street Work,postal_first,geoapi,Eskolanmäki,Kouvola,0,POSTAL,POSTAL,1,Kuopio,,0,,24.7
+25,https://yle.fi/a/74-20116936,City or Municipality,postal_first,geoapi,Sörnäinen,Sörnäinen,1,POSTAL,CITY,0,Helsinki,Sörnäinen,0,,100.35
+28,https://yle.fi/a/74-20152114,Local News,postal_first,geoapi,Suulisniemi,Kotka,0,POSTAL,CITY,0,Kotka,Kotka,1,,43.47
+31,https://yle.fi/a/74-20003640,Local News,postal_first,geoapi,Hietaniemi,Hedenäset,0,POSTAL,CITY,0,Helsinki,Hietaniemi,0,,49.95
+32,https://yle.fi/a/74-20181807,Authority Alerts,postal_first,geoapi,Lassila,Helsinki,0,POSTAL,POSTAL,1,Helsinki,,0,,68.37
+35,https://www.aamulehti.fi/musiikki/art-2000009238759.html,Culture and Music,postal_first,geoapi,Vesilahti,Vesilahti,1,CITY,POSTAL,0,,,0,,23.97
+48,https://www.ouka.fi/uutiset/tuiran-kirjasto-sulkeutuu-304-muuton-vuoksi,City or Municipality,postal_first,geoapi,Tuira,Tuira,1,POSTAL,POSTAL,1,Oulu,Oulu,1,,55.98
+47,https://nuorten.hel.fi/en/events/?event_id=helsinki:agntkoltny,Culture and Music,postal_first,geoapi,Kanneltalo,Kanneltalo,1,POSTAL,POSTAL,1,Helsinki,,0,,19.8
+49,https://kalenteri.turku.fi/fi-FI/page/68219583a421a20ddcd0db91,Culture and Music,postal_first,geoapi,Kupittaanpuisto,Turun Kupittaanpuisto is not a correct answer as it is a specific venue.,0,POSTAL,CITY,0,Turku,Turun Kupittaanpuisto is not a correct answer as it is a specific venue.,0,,29.8
+50,https://hervantaopenair.com/,Culture and Music,postal_first,geoapi,Hervanta,Hervanta,1,POSTAL,POSTAL,1,Tampere,Tampere,1,,51.39
+53,https://www.hel.fi/fi/uutiset/mellunmaenluhdan-luonnonsuojelualueelle-hoito-ja-kayttosuunnitelma,Traffic and Street Work,postal_first,geoapi,Mellunmäki,Mellunmäki,1,POSTAL,POSTAL,1,Helsinki,,0,,22.3
+58,https://kirkkonummi.fi/talviloman-maksuttomat-yleisoluisteluvuorot/,Sports and Fitness,postal_first,geoapi,Kirkkonummi,Kirkkonummi,1,CITY,POSTAL,0,,,0,,16.89
+15,https://yle.fi/a/74-20211684,Traffic and Street Work,postal_first,geoapi,Suomi,Finland,0,COUNTRY,COUNTRY,1,,,0,,7.2
+,,,,,,,,,,,,,,,51.09894737

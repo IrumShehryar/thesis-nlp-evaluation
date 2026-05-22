@@ -1,0 +1,61 @@
+article_id,article_url,category,ranking_mode,resolver_mode,human_correct,system_name,match,human_level,system_level,level_match,human_city,system_city,city_match,system_postal,elapsed_s
+1,https://yle.fi/a/74-20205687,Traffic and Street Work,baseline,static,Kelloniemi,Kuopio,0,POSTAL,CITY,0,Kuopio,Kuopio,1,,25.27
+2,https://yle.fi/a/74-20207386,Local News,baseline,static,Olari,Espoo,0,Espoo,CITY,0,,Espoo,0,,22.71
+3,https://yle.fi/a/74-20207342,Local News,baseline,static,Joensuu,Joensuu,1,CITY,CITY,1,,Joensuu,0,,26.75
+4,https://yle.fi/a/74-20207144,Local News,baseline,static,Tšetšenia,Tšetšenia,1,PROVINCE,PROVINCE,1,,,0,,46.64
+5,https://yle.fi/a/74-20208736,Authority Info,baseline,static,Islamabad,Pakistan,0,CITY,COUNTRY,0,,,0,,23.6
+6,https://yle.fi/a/74-20206770,Local News,baseline,static,Tampere,Tampere,1,CITY,CITY,1,,Tampere,0,,22.37
+7,https://yle.fi/a/74-20206479,Culture and Music,baseline,static,Kuopio,Kuopio,1,CITY,CITY,1,,Kuopio,0,,37.87
+8,https://yle.fi/a/74-2020802,Local News,baseline,static,Porvoo,Porvoo,1,CITY,CITY,1,,Porvoo,0,,50.4
+9,https://yle.fi/a/74-20208091,Culture and Music,baseline,static,Jyväskylä,Jyväskylä,1,CITY,CITY,1,,Jyväskylä,0,,21.45
+10,https://yle.fi/a/74-20208791,Local News,baseline,static,Pasila,Pasila,1,Helsinki,POSTAL,0,,Helsinki,0,240,24.33
+11,https://yle.fi/a/74-20209945,Sports and Fitness,baseline,static,Kuopio,Kuopio,1,CITY,CITY,1,,Kuopio,0,,16.71
+12,https://yle.fi/a/74-20211696,Sports and Fitness,baseline,static,Milano,Italy,0,CITY,COUNTRY,0,,,0,,19.73
+13,https://yle.fi/a/74-20211498,City or Municipality,baseline,static,Vaarala,Vantaa,0,POSTAL,CITY,0,Vaanta,Vantaa,0,,31.33
+14,https://yle.fi/a/74-20211815,Sports and Fitness,baseline,static,Lappeenranta,Lappeenranta,1,CITY,CITY,1,,Lappeenranta,0,,22.23
+15,https://yle.fi/a/74-20211684,Traffic and Street Work,baseline,static,Suomi,Finland,0,COUNTRY,COUNTRY,1,,,0,,10.05
+16,https://yle.fi/a/74-20017262,City or Municipality,baseline,static,Oulu,Finland,0,CITY,COUNTRY,0,,,0,,15.07
+17,https://yle.fi/a/74-20048640,City or Municipality,baseline,static,Oulu,Oulu,1,CITY,CITY,1,,Oulu,0,,53.15
+18,https://yle.fi/a/3-5409509,Culture and Music,baseline,static,Lahti,Lahti,1,CITY,CITY,1,,Lahti,0,,14.7
+19,https://yle.fi/a/74-20211457,Culture and Music,baseline,static,Lappeenranta,Lappeenranta,1,CITY,CITY,1,,Lappeenranta,0,,16.25
+20,https://yle.fi/a/74-20210581,City or Municipality,baseline,static,Seinäjoki,Seinäjoki,1,CITY,CITY,1,,Seinäjoki,0,,18.64
+21,https://yle.fi/a/74-20203626,Authority Info,baseline,static,Rovaniemi,Rovaniemi,1,CITY,CITY,1,,Rovaniemi,0,,19.02
+22,https://yle.fi/a/74-20133978,Traffic and Street Work,baseline,static,Maunula,Maunula,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,Maunula,9.67
+23,https://yle.fi/a/74-20159710,Traffic and Street Work,baseline,static,Eskolanmäki,Kouvola,0,POSTAL,CITY,0,Kuopio,Kouvola,0,,9.64
+24,https://yle.fi/a/74-20134982,Authority Info,baseline,static,Pääskyvuori,Turku,0,POSTAL,CITY,0,Turku,Turku,1,,13.91
+25,https://yle.fi/a/74-20116936,City or Municipality,baseline,static,Sörnäinen,Helsinki,0,POSTAL,CITY,0,Helsinki,Helsinki,1,,30.69
+26,https://yle.fi/a/74-20183616,Authority Info,baseline,static,Hietalahti,Hietalahti,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,Hietalahti,18.66
+27,https://yle.fi/a/74-20197628,City or Municipality,baseline,static,Hiltulanlahti,Hiltulanlahti,1,POSTAL,POSTAL,1,Kuopio,Kuopio,1,70870,16.66
+28,https://yle.fi/a/74-20152114,Local News,baseline,static,Suulisniemi,Kotka,0,POSTAL,CITY,0,Kotka,Kotka,1,,17.65
+29,https://yle.fi/a/74-20187030,City or Municipality,baseline,static,Sammonlahti,Sammonlahti,1,POSTAL,POSTAL,1,Lappeenranta,Lappeenranta,1,Sammonlahti,23.95
+30,https://yle.fi/a/74-20075992,Traffic and Street Work,baseline,static,Turku,Turku,1,CITY,CITY,1,,Turku,0,,34.72
+31,https://yle.fi/a/74-20003640,Local News,baseline,static,Hietaniemi,Hietaniemi,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,Hietaniemi,23.91
+32,https://yle.fi/a/74-20181807,Authority Alerts,baseline,static,Lassila,Finland,0,POSTAL,COUNTRY,0,Helsinki,,0,,30.29
+33,https://poliisi.fi/-/mantyharjulta-anastettu-klapikone,Authority Alerts,baseline,static,Mäntyharju,Mäntyharju,1,CITY,CITY,1,,Mäntyharju,0,,7.94
+34,https://www.lohja.fi/muut-uutiset/lohja-yrityspitovoimatutkimus-2021/,City or Municipality,baseline,static,Lohja,Lohja,1,CITY,CITY,1,,Lohja,0,,29.52
+35,https://www.aamulehti.fi/musiikki/art-2000009238759.html,Culture and Music,baseline,static,Vesilahti,Vesilahti,1,CITY,CITY,1,,Vesilahti,0,,22.22
+36,https://poliisi.fi/-/poliisi-tutkii-tapon-yritysta-raumalla,Authority Info,baseline,static,Rauma,Rauma,1,CITY,CITY,1,,Rauma,0,,20.45
+37,https://poliisi.fi/-/poliisi-harjoittelee-kaitaan-metroasemalla-espoossa-30.3,Authority Info,baseline,static,Kaitaa,Kaitaa,1,POSTAL,POSTAL,1,Espoo,Espoo,1,Kaitaa,10.74
+38,https://www.kokkola.fi/tiedotteet/valtakunnallinen-ilmapuolustusharjoitus-lohtajalla-15-24-11/,City or Municipality,baseline,static,Lohtaja,Lohtaja,1,CITY,CITY,1,,Lohtaja,0,,47.58
+39,https://www.jarvenpaa.fi/a/powerfestival-rantautuu-jarvenpaahan/,Culture and Music,baseline,static,Järvenpää,Järvenpää,1,CITY,CITY,1,,Järvenpää,0,,14.84
+40,https://www.seinajoki.fi/virtuaalivesijumppaa-monitoimialtaalla/,Sports and Fitness,baseline,static,Seinäjoki,Seinäjoki,1,CITY,CITY,1,,Seinäjoki,0,,10.12
+41,https://yle.fi/a/3-12636602,Local News,baseline,static,Lieksa,Lieksa,1,CITY,CITY,1,,Lieksa,0,,48.48
+42,https://poliisi.fi/-/poliisi-ei-epaile-rikosta-lampokeskukseen-tunkeutumisesta-helsingissa,Authority Info,baseline,static,Hernesaari,Helsinki,0,POSTAL,CITY,0,Helsinki,Helsinki,1,,27.73
+43,https://www.suomenuutiset.fi/pahoinpitelyista-ja-ryostoista-epailty-nuorisojoukko-herattaa-huolta-ja-kuumotusta-helsingin-onnellisten-saarella/,Authority Info,baseline,static,Lauttasaari,Helsinki,0,POSTAL,CITY,0,Helsinki,Helsinki,1,,28.38
+44,https://poliisi.fi/-/poliisi-tutkii-vuosaaressa-tapahtunutta-tapon-yritysta,Authority Alerts,baseline,static,Vuosaari,Vuosaari,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,980,7.13
+45,https://poliisi.fi/-/poliisi-jatkaa-malminkartanossa-tapahtuneen-henkirikoksen-tutkintaa,Authority Alerts,baseline,static,Malminkartano,Malminkartano,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,410,9.89
+46,https://poliisi.fi/-/poliisi-pyytaa-havaintoja-oulun-alppilassa-tapahtuneesta-torkeasta-ryostosta,Authority Alerts,baseline,static,Alppila,Oulu,0,POSTAL,CITY,0,Oulu,Oulu,1,,8.89
+47,https://nuorten.hel.fi/en/events/?event_id=helsinki:agntkoltny,Culture and Music,baseline,static,Kanneltalo,Kanneltalo,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,Kanneltalo,14.61
+48,https://www.ouka.fi/uutiset/tuiran-kirjasto-sulkeutuu-304-muuton-vuoksi,City or Municipality,baseline,static,Tuira,Tuira kirjasto,0,POSTAL,POSTAL,1,Oulu,,0,,17.4
+49,https://kalenteri.turku.fi/fi-FI/page/68219583a421a20ddcd0db91,Culture and Music,baseline,static,Kupittaanpuisto,Finland,0,POSTAL,COUNTRY,0,Turku,,0,,14.96
+50,https://hervantaopenair.com/,Culture and Music,baseline,static,Hervanta,Hervanta Open Air,0,POSTAL,POSTAL,1,Tampere,,0,,39.6
+51,https://tapahtumat.tampere.fi/fi-FI/page/65cb1b054921d33b28e7812b?count=24&sort=creationDate&reverse=true,Culture and Music,baseline,static,Tammela,Tammela stadioni,0,POSTAL,POSTAL,1,Tampere,,0,,7.78
+52,https://www.hel.fi/fi/uutiset/kallion-kesakatujen-rakentaminen-alkaa,Traffic and Street Work,baseline,static,Kallio,Kallio,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,Kallio,30.66
+53,https://www.hel.fi/fi/uutiset/mellunmaenluhdan-luonnonsuojelualueelle-hoito-ja-kayttosuunnitelma,Traffic and Street Work,baseline,static,Mellunmäki,Helsinki,0,POSTAL,CITY,0,Helsinki,Helsinki,1,,12.26
+54,https://www.hel.fi/fi/uutiset/itavaylan-ylittava-silta-suljetaan-korjauksen-ajaksi-kulosaaressa,Traffic and Street Work,baseline,static,Kulosaari,Kulosaari,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,Kulosaari,11.72
+55,https://www.hel.fi/fi/uutiset/fredrikintorin-peruskorjaus-alkaa-punavuoressa,City or Municipality,baseline,static,Punavuori,Punavuori,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,120,8.81
+56,https://www.vantaa.fi/fi/ajankohtaista/uutinen/ratatien-lapiajo-paattyy,Traffic and Street Work,baseline,static,Tikkurila,Tikkurila,1,POSTAL,POSTAL,1,Vantaa,Vantaa,1,1300,6.73
+57,https://www.mtvuutiset.fi/artikkeli/espoon-matinkylassa-on-viime-vuosina-poltettu-ainakin-10-autoa-poliisi-tuskastuttavassa-tilanteessa-ei-ainoan-ainutta-vihjetta/7881806,Authority Info,baseline,static,Matinkylä,Matinkylä,1,POSTAL,POSTAL,1,Espoo,Espoo,1,2230,14.09
+58,https://kirkkonummi.fi/talviloman-maksuttomat-yleisoluisteluvuorot/,Sports and Fitness,baseline,static,Kirkkonummi,Kirkkonummi,1,CITY,CITY,1,,Kirkkonummi,0,,8.34
+59,https://www.ylojarvi.fi/verkkopuntari-hyvinvoinnin-verkkovalmennus-nuorille/,Sports and Fitness,baseline,static,Ylöjärvi,Ylöjärvi,1,CITY,CITY,1,,Ylöjärvi,0,,9.87
+60,https://saarijarvi.fi/ajankohtaista/saarijarven-kaupungin-vapaa-aikapalvelut-pyytaa-esityksia-vuonna-2025-menestyneista-urheilijoista/,Sports and Fitness,baseline,static,Saarijärvi,Saarijärvi,1,CITY,CITY,1,,Saarijärvi,0,,12.14

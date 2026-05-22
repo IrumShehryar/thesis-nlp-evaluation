@@ -1,0 +1,513 @@
+[
+    {
+        "id": "1",
+        "file": "001.txt",
+        "url": "https://yle.fi/a/74-20205687",
+        "category": "Traffic and Street Work",
+        "human_correct": "Kelloniemi",
+        "human_level": "POSTAL",
+        "human_city": "Kuopio"
+    },
+    {
+        "id": "2",
+        "file": "002.txt",
+        "url": "https://yle.fi/a/74-20207386",
+        "category": "Local News",
+        "human_correct": "Olari",
+        "human_level": "POSTAL",
+        "human_city": "Espoo"
+    },
+    {
+        "id": "3",
+        "file": "003.txt",
+        "url": "https://yle.fi/a/74-20207342",
+        "category": "Local News",
+        "human_correct": "Joensuu",
+        "human_level": "CITY"
+    },
+    {
+        "id": "4",
+        "file": "004.txt",
+        "url": "https://yle.fi/a/74-20207144",
+        "category": "Local News",
+        "human_correct": "Tšetšenia",
+        "human_level": "PROVINCE"
+    },
+    {
+        "id": "5",
+        "file": "005.txt",
+        "url": "https://yle.fi/a/74-20208736",
+        "category": "Authority Info",
+        "human_correct": "Islamabad",
+        "human_level": "CITY"
+    },
+    {
+        "id": "6",
+        "file": "006.txt",
+        "url": "https://yle.fi/a/74-20206770",
+        "category": "Local News",
+        "human_correct": "Tampere",
+        "human_level": "CITY"
+    },
+    {
+        "id": "7",
+        "file": "007.txt",
+        "url": "https://yle.fi/a/74-20206479",
+        "category": "Culture and Music",
+        "human_correct": "Kuopio",
+        "human_level": "CITY"
+    },
+    {
+        "id": "8",
+        "file": "008.txt",
+        "url": "https://yle.fi/a/74-2020802",
+        "category": "Local News",
+        "human_correct": "Porvoo",
+        "human_level": "CITY"
+    },
+    {
+        "id": "9",
+        "file": "009.txt",
+        "url": "https://yle.fi/a/74-20208091",
+        "category": "Culture and Music",
+        "human_correct": "Jyväskylä",
+        "human_level": "CITY"
+    },
+    {
+        "id": "10",
+        "file": "010.txt",
+        "url": "https://yle.fi/a/74-20208791",
+        "category": "Local News",
+        "human_correct": "Pasila",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "11",
+        "file": "011.txt",
+        "url": "https://yle.fi/a/74-20209945",
+        "category": "Sports and Fitness",
+        "human_correct": "Kuopio",
+        "human_level": "CITY"
+    },
+    {
+        "id": "12",
+        "file": "012.txt",
+        "url": "https://yle.fi/a/74-20211696",
+        "category": "Sports and Fitness",
+        "human_correct": "Milano",
+        "human_level": "CITY"
+    },
+    {
+        "id": "13",
+        "file": "013.txt",
+        "url": "https://yle.fi/a/74-20211498",
+        "category": "City or Municipality",
+        "human_correct": "Vaarala",
+        "human_level": "POSTAL",
+        "human_city": "Vantaa"
+    },
+    {
+        "id": "14",
+        "file": "014.txt",
+        "url": "https://yle.fi/a/74-20211815",
+        "category": "Sports and Fitness",
+        "human_correct": "Lappeenranta",
+        "human_level": "CITY"
+    },
+    {
+        "id": "15",
+        "file": "015.txt",
+        "url": "https://yle.fi/a/74-20211684",
+        "category": "Traffic and Street Work",
+        "human_correct": "Suomi",
+        "human_level": "COUNTRY"
+    },
+    {
+        "id": "16",
+        "file": "016.txt",
+        "url": "https://yle.fi/a/74-20017262",
+        "category": "City or Municipality",
+        "human_correct": "Oulu",
+        "human_level": "CITY"
+    },
+    {
+        "id": "17",
+        "file": "017.txt",
+        "url": "https://yle.fi/a/74-20048640",
+        "category": "City or Municipality",
+        "human_correct": "Oulu",
+        "human_level": "CITY"
+    },
+    {
+        "id": "18",
+        "file": "018.txt",
+        "url": "https://yle.fi/a/3-5409509",
+        "category": "Culture and Music",
+        "human_correct": "Lahti",
+        "human_level": "CITY"
+    },
+    {
+        "id": "19",
+        "file": "019.txt",
+        "url": "https://yle.fi/a/74-20211457",
+        "category": "Culture and Music",
+        "human_correct": "Lappeenranta",
+        "human_level": "CITY"
+    },
+    {
+        "id": "20",
+        "file": "020.txt",
+        "url": "https://yle.fi/a/74-20210581",
+        "category": "City or Municipality",
+        "human_correct": "Seinäjoki",
+        "human_level": "CITY"
+    },
+    {
+        "id": "21",
+        "file": "021.txt",
+        "url": "https://yle.fi/a/74-20203626",
+        "category": "Authority Info",
+        "human_correct": "Rovaniemi",
+        "human_level": "CITY"
+    },
+    {
+        "id": "22",
+        "file": "022.txt",
+        "url": "https://yle.fi/a/74-20133978",
+        "category": "Traffic and Street Work",
+        "human_correct": "Maunula",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "23",
+        "file": "023.txt",
+        "url": "https://yle.fi/a/74-20159710",
+        "category": "Traffic and Street Work",
+        "human_correct": "Eskolanmäki",
+        "human_level": "POSTAL",
+        "human_city": "Kuopio"
+    },
+    {
+        "id": "24",
+        "file": "024.txt",
+        "url": "https://yle.fi/a/74-20134982",
+        "category": "Authority Info",
+        "human_correct": "Pääskyvuori",
+        "human_level": "POSTAL",
+        "human_city": "Turku"
+    },
+    {
+        "id": "25",
+        "file": "025.txt",
+        "url": "https://yle.fi/a/74-20116936",
+        "category": "City or Municipality",
+        "human_correct": "Sörnäinen",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "26",
+        "file": "026.txt",
+        "url": "https://yle.fi/a/74-20183616",
+        "category": "Authority Info",
+        "human_correct": "Hietalahti",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "27",
+        "file": "027.txt",
+        "url": "https://yle.fi/a/74-20197628",
+        "category": "City or Municipality",
+        "human_correct": "Hiltulanlahti",
+        "human_level": "POSTAL",
+        "human_city": "Kuopio"
+    },
+    {
+        "id": "28",
+        "file": "028.txt",
+        "url": "https://yle.fi/a/74-20152114",
+        "category": "Local News",
+        "human_correct": "Suulisniemi",
+        "human_level": "POSTAL",
+        "human_city": "Kotka"
+    },
+    {
+        "id": "29",
+        "file": "029.txt",
+        "url": "https://yle.fi/a/74-20187030",
+        "category": "City or Municipality",
+        "human_correct": "Sammonlahti",
+        "human_level": "POSTAL",
+        "human_city": "Lappeenranta"
+    },
+    {
+        "id": "30",
+        "file": "030.txt",
+        "url": "https://yle.fi/a/74-20075992",
+        "category": "Traffic and Street Work",
+        "human_correct": "Turku",
+        "human_level": "CITY"
+    },
+    {
+        "id": "31",
+        "file": "031.txt",
+        "url": "https://yle.fi/a/74-20003640",
+        "category": "Local News",
+        "human_correct": "Hietaniemi",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "32",
+        "file": "032.txt",
+        "url": "https://yle.fi/a/74-20181807",
+        "category": "Authority Alerts",
+        "human_correct": "Lassila",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "33",
+        "file": "033.txt",
+        "url": "https://poliisi.fi/-/mantyharjulta-anastettu-klapikone",
+        "category": "Authority Alerts",
+        "human_correct": "Mäntyharju",
+        "human_level": "CITY"
+    },
+    {
+        "id": "34",
+        "file": "034.txt",
+        "url": "https://www.lohja.fi/muut-uutiset/lohja-yrityspitovoimatutkimus-2021/",
+        "category": "City or Municipality",
+        "human_correct": "Lohja",
+        "human_level": "CITY"
+    },
+    {
+        "id": "35",
+        "file": "035.txt",
+        "url": "https://www.aamulehti.fi/musiikki/art-2000009238759.html",
+        "category": "Culture and Music",
+        "human_correct": "Vesilahti",
+        "human_level": "CITY"
+    },
+    {
+        "id": "36",
+        "file": "036.txt",
+        "url": "https://poliisi.fi/-/poliisi-tutkii-tapon-yritysta-raumalla",
+        "category": "Authority Info",
+        "human_correct": "Rauma",
+        "human_level": "CITY"
+    },
+    {
+        "id": "37",
+        "file": "037.txt",
+        "url": "https://poliisi.fi/-/poliisi-harjoittelee-kaitaan-metroasemalla-espoossa-30.3",
+        "category": "Authority Info",
+        "human_correct": "Kaitaa",
+        "human_level": "POSTAL",
+        "human_city": "Espoo"
+    },
+    {
+        "id": "38",
+        "file": "038.txt",
+        "url": "https://www.kokkola.fi/tiedotteet/valtakunnallinen-ilmapuolustusharjoitus-lohtajalla-15-24-11/",
+        "category": "City or Municipality",
+        "human_correct": "Lohtaja",
+        "human_level": "CITY"
+    },
+    {
+        "id": "39",
+        "file": "039.txt",
+        "url": "https://www.jarvenpaa.fi/a/powerfestival-rantautuu-jarvenpaahan/",
+        "category": "Culture and Music",
+        "human_correct": "Järvenpää",
+        "human_level": "CITY"
+    },
+    {
+        "id": "40",
+        "file": "040.txt",
+        "url": "https://www.seinajoki.fi/virtuaalivesijumppaa-monitoimialtaalla/",
+        "category": "Sports and Fitness",
+        "human_correct": "Seinäjoki",
+        "human_level": "CITY"
+    },
+    {
+        "id": "41",
+        "file": "041.txt",
+        "url": "https://yle.fi/a/3-12636602",
+        "category": "Local News",
+        "human_correct": "Lieksa",
+        "human_level": "CITY"
+    },
+    {
+        "id": "42",
+        "file": "042.txt",
+        "url": "https://poliisi.fi/-/poliisi-ei-epaile-rikosta-lampokeskukseen-tunkeutumisesta-helsingissa",
+        "category": "Authority Info",
+        "human_correct": "Hernesaari",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "43",
+        "file": "043.txt",
+        "url": "https://www.suomenuutiset.fi/pahoinpitelyista-ja-ryostoista-epailty-nuorisojoukko-herattaa-huolta-ja-kuumotusta-helsingin-onnellisten-saarella/",
+        "category": "Authority Info",
+        "human_correct": "Lauttasaari",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "44",
+        "file": "044.txt",
+        "url": "https://poliisi.fi/-/poliisi-tutkii-vuosaaressa-tapahtunutta-tapon-yritysta",
+        "category": "Authority Alerts",
+        "human_correct": "Vuosaari",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "45",
+        "file": "045.txt",
+        "url": "https://poliisi.fi/-/poliisi-jatkaa-malminkartanossa-tapahtuneen-henkirikoksen-tutkintaa",
+        "category": "Authority Alerts",
+        "human_correct": "Malminkartano",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "46",
+        "file": "046.txt",
+        "url": "https://poliisi.fi/-/poliisi-pyytaa-havaintoja-oulun-alppilassa-tapahtuneesta-torkeasta-ryostosta",
+        "category": "Authority Alerts",
+        "human_correct": "Alppila",
+        "human_level": "POSTAL",
+        "human_city": "Oulu"
+    },
+    {
+        "id": "47",
+        "file": "047.txt",
+        "url": "https://nuorten.hel.fi/en/events/?event_id=helsinki:agntkoltny",
+        "category": "Culture and Music",
+        "human_correct": "Kanneltalo",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "48",
+        "file": "048.txt",
+        "url": "https://www.ouka.fi/uutiset/tuiran-kirjasto-sulkeutuu-304-muuton-vuoksi",
+        "category": "City or Municipality",
+        "human_correct": "Tuira",
+        "human_level": "POSTAL",
+        "human_city": "Oulu"
+    },
+    {
+        "id": "49",
+        "file": "049.txt",
+        "url": "https://kalenteri.turku.fi/fi-FI/page/68219583a421a20ddcd0db91",
+        "category": "Culture and Music",
+        "human_correct": "Kupittaanpuisto",
+        "human_level": "POSTAL",
+        "human_city": "Turku"
+    },
+    {
+        "id": "50",
+        "file": "050.txt",
+        "url": "https://hervantaopenair.com/",
+        "category": "Culture and Music",
+        "human_correct": "Hervanta",
+        "human_level": "POSTAL",
+        "human_city": "Tampere"
+    },
+    {
+        "id": "51",
+        "file": "051.txt",
+        "url": "https://tapahtumat.tampere.fi/fi-FI/page/65cb1b054921d33b28e7812b?count=24&sort=creationDate&reverse=true",
+        "category": "Culture and Music",
+        "human_correct": "Tammela",
+        "human_level": "POSTAL",
+        "human_city": "Tampere"
+    },
+    {
+        "id": "52",
+        "file": "052.txt",
+        "url": "https://www.hel.fi/fi/uutiset/kallion-kesakatujen-rakentaminen-alkaa",
+        "category": "Traffic and Street Work",
+        "human_correct": "Kallio",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "53",
+        "file": "053.txt",
+        "url": "https://www.hel.fi/fi/uutiset/mellunmaenluhdan-luonnonsuojelualueelle-hoito-ja-kayttosuunnitelma",
+        "category": "Traffic and Street Work",
+        "human_correct": "Mellunmäki",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "54",
+        "file": "054.txt",
+        "url": "https://www.hel.fi/fi/uutiset/itavaylan-ylittava-silta-suljetaan-korjauksen-ajaksi-kulosaaressa",
+        "category": "Traffic and Street Work",
+        "human_correct": "Kulosaari",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "55",
+        "file": "055.txt",
+        "url": "https://www.hel.fi/fi/uutiset/fredrikintorin-peruskorjaus-alkaa-punavuoressa",
+        "category": "City or Municipality",
+        "human_correct": "Punavuori",
+        "human_level": "POSTAL",
+        "human_city": "Helsinki"
+    },
+    {
+        "id": "56",
+        "file": "056.txt",
+        "url": "https://www.vantaa.fi/fi/ajankohtaista/uutinen/ratatien-lapiajo-paattyy",
+        "category": "Traffic and Street Work",
+        "human_correct": "Tikkurila",
+        "human_level": "POSTAL",
+        "human_city": "Vantaa"
+    },
+    {
+        "id": "57",
+        "file": "057.txt",
+        "url": "https://www.mtvuutiset.fi/artikkeli/espoon-matinkylassa-on-viime-vuosina-poltettu-ainakin-10-autoa-poliisi-tuskastuttavassa-tilanteessa-ei-ainoan-ainutta-vihjetta/7881806",
+        "category": "Authority Info",
+        "human_correct": "Matinkylä",
+        "human_level": "POSTAL",
+        "human_city": "Espoo"
+    },
+    {
+        "id": "58",
+        "file": "058.txt",
+        "url": "https://kirkkonummi.fi/talviloman-maksuttomat-yleisoluisteluvuorot/",
+        "category": "Sports and Fitness",
+        "human_correct": "Kirkkonummi",
+        "human_level": "CITY"
+    },
+    {
+        "id": "59",
+        "file": "059.txt",
+        "url": "https://www.ylojarvi.fi/verkkopuntari-hyvinvoinnin-verkkovalmennus-nuorille/",
+        "category": "Sports and Fitness",
+        "human_correct": "Ylöjärvi",
+        "human_level": "CITY"
+    },
+    {
+        "id": "60",
+        "file": "060.txt",
+        "url": "https://saarijarvi.fi/ajankohtaista/saarijarven-kaupungin-vapaa-aikapalvelut-pyytaa-esityksia-vuonna-2025-menestyneista-urheilijoista/",
+        "category": "Sports and Fitness",
+        "human_correct": "Saarijärvi",
+        "human_level": "CITY"
+    }
+]
