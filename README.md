@@ -95,18 +95,15 @@ Note: exact string matching penalised geographically correct answers where the s
 ---
 
 ## Reproducing Results
-
-**Requirements:**
-```
+**Step 1 — Clone the repository:**
+git clone https://github.com/IrumShehryar/thesis-nlp-evaluation
+cd thesis-nlp-evaluation
+**Step 2 — Install dependencies:**
 pip install pandas
-```
-
-**Run:**
-```
+**Step 3 — Run the evaluation script:**
 python compute_metrics.py
-```
 
-The script reads all CSV files in the same directory and prints exact match, level match, and city match for all four configurations.
+This will print exact match, level match, and city match accuracy for all four pipeline configurations.
 
 ---
 
