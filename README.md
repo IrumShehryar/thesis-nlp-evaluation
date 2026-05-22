@@ -12,7 +12,7 @@ Grade: 5/5
 
 ## Overview
 
-This repository contains the evaluation dataset and results for a master's thesis that built and evaluated a four-configuration NLP pipeline for extracting and ranking geographic locations at postal-code level from Finnish news articles.
+This repository contains the evaluation dataset and results for a master's thesis that built and evaluated a four-configuration NLP pipeline for extracting and ranking geographic locations at postal level from Finnish news articles.
 
 The pipeline was developed in collaboration with **Superhood Oy** — a Finnish neighbourhood-level news platform.
 
@@ -36,7 +36,7 @@ The pipeline was developed in collaboration with **Superhood Oy** — a Finnish 
 
 ## Dataset
 
-The dataset consists of 60 publicly available Finnish news articles collected from Yle, Finnish police (poliisi.fi), and Finnish municipal websites. Article categories include Traffic and Street Work, Local News, Authority Info, Culture and Music, Sports and Fitness, City or Municipality, and Authority Alerts.
+The dataset consists of 60 publicly available Finnish news articles collected from Yle, Finnish police (poliisi.fi), and Finnish municipal websites. Article categories include Traffic and Street Works, Crime, Weather, and Local News.
 
 Each article is annotated with:
 - **human_correct** — the primary location name representing the geographic scope of the article
@@ -57,6 +57,8 @@ Each article is annotated with:
 ---
 
 ## Results
+
+![Postal-Level Location Extraction Results](diagrams/results-graph.PNG)
 
 | Configuration                | Exact Match         | Level Match         | City Match              |
 |------------------------------|---------------------|---------------------|-------------------------|
