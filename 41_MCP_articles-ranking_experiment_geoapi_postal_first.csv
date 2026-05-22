@@ -1,0 +1,43 @@
+article_id,article_url,category,ranking_mode,resolver_mode,human_correct,system_name,match,human_level,system_level,level_match,human_city,system_city,city_match,system_postal,elapsed_s
+1,https://yle.fi/a/74-20205687,Traffic and Street Work,postal_first,geoapi,Kelloniemi,Kelloniemi,1,POSTAL,POSTAL,1,Kuopio,Kuopio,1,70460,42.98
+3,https://yle.fi/a/74-20207342,Local News,postal_first,geoapi,Joensuu,Joensuu,1,CITY,CITY,1,,Joensuu,0,,18.13
+6,https://yle.fi/a/74-20206770,Local News,postal_first,geoapi,Tampere,Tampere,1,CITY,CITY,1,,Tampere,0,,15.54
+7,https://yle.fi/a/74-20206479,Culture and Music,postal_first,geoapi,Kuopio,Kuopio,1,CITY,CITY,1,,Kuopio,0,,27.39
+8,https://yle.fi/a/74-2020802,Local News,postal_first,geoapi,Porvoo,Porvoo,1,CITY,CITY,1,,Porvoo,0,,43.35
+9,https://yle.fi/a/74-20208091,Culture and Music,postal_first,geoapi,Jyväskylä,Jyväskylä,1,CITY,CITY,1,,Jyväskylä,0,,12.52
+10,https://yle.fi/a/74-20208791,Local News,postal_first,geoapi,Pasila,Pasila,1,Helsinki,POSTAL,0,,Helsinki,0,,17.67
+11,https://yle.fi/a/74-20209945,Sports and Fitness,postal_first,geoapi,Kuopio,Kuopio,1,CITY,CITY,1,,Kuopio,0,,12.89
+13,https://yle.fi/a/74-20211498,City or Municipality,postal_first,geoapi,Vaarala,Vaarala,1,POSTAL,POSTAL,1,Vaanta,Vantaa,0,1230,28.23
+14,https://yle.fi/a/74-20211815,Sports and Fitness,postal_first,geoapi,Lappeenranta,Lappeenranta,1,CITY,CITY,1,,Lappeenranta,0,,17.11
+16,https://yle.fi/a/74-20017262,City or Municipality,postal_first,geoapi,Oulu,Oulu,1,CITY,CITY,1,,Oulu,0,,26.98
+18,https://yle.fi/a/3-5409509,Culture and Music,postal_first,geoapi,Lahti,Lahti,1,CITY,CITY,1,,Lahti,0,,23.94
+19,https://yle.fi/a/74-20211457,Culture and Music,postal_first,geoapi,Lappeenranta,Lappeenranta,1,CITY,CITY,1,,Lappeenranta,0,,32.64
+21,https://yle.fi/a/74-20203626,Authority Info,postal_first,geoapi,Rovaniemi,Rovaniemi,1,CITY,CITY,1,,Rovaniemi,0,,17.96
+22,https://yle.fi/a/74-20133978,Traffic and Street Work,postal_first,geoapi,Maunula,Maunula,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,630,16.16
+24,https://yle.fi/a/74-20134982,Authority Info,postal_first,geoapi,Pääskyvuori,Pääskyvuori,1,POSTAL,POSTAL,1,Turku,Turku,1,,15.94
+26,https://yle.fi/a/74-20183616,Authority Info,postal_first,geoapi,Hietalahti,Hietalahti,1,POSTAL,POSTAL,1,Helsinki,Suonenjoki,0,,31.75
+27,https://yle.fi/a/74-20197628,City or Municipality,postal_first,geoapi,Hiltulanlahti,Hiltulanlahti,1,POSTAL,POSTAL,1,Kuopio,Kuopio,1,70801,17.75
+29,https://yle.fi/a/74-20187030,City or Municipality,postal_first,geoapi,Sammonlahti,Sammonlahti,1,POSTAL,POSTAL,1,Lappeenranta,Lappeenranta,1,,21.86
+30,https://yle.fi/a/74-20075992,Traffic and Street Work,postal_first,geoapi,Turku,Lahti,0,CITY,CITY,1,,Lahti,0,,38.98
+33,https://poliisi.fi/-/mantyharjulta-anastettu-klapikone,Authority Alerts,postal_first,geoapi,Mäntyharju,Mäntyharju,1,CITY,CITY,1,,Mäntyharju,0,,13.55
+34,https://www.lohja.fi/muut-uutiset/lohja-yrityspitovoimatutkimus-2021/,City or Municipality,postal_first,geoapi,Lohja,Lohja,1,CITY,CITY,1,,Lohja,0,,15.05
+36,https://poliisi.fi/-/poliisi-tutkii-tapon-yritysta-raumalla,Authority Info,postal_first,geoapi,Rauma,Rauma,1,CITY,CITY,1,,Rauma,0,,13.68
+37,https://poliisi.fi/-/poliisi-harjoittelee-kaitaan-metroasemalla-espoossa-30.3,Authority Info,postal_first,geoapi,Kaitaa,Kaitaa,1,POSTAL,POSTAL,1,Espoo,Espoo,1,2260,38.62
+38,https://www.kokkola.fi/tiedotteet/valtakunnallinen-ilmapuolustusharjoitus-lohtajalla-15-24-11/,City or Municipality,postal_first,geoapi,Lohtaja,Lohtaja,1,CITY,POSTAL,0,,Kokkola,0,68230,18.95
+39,https://www.jarvenpaa.fi/a/powerfestival-rantautuu-jarvenpaahan/,Culture and Music,postal_first,geoapi,Järvenpää,Järvenpää,1,CITY,CITY,1,,Järvenpää,0,,17.03
+40,https://www.seinajoki.fi/virtuaalivesijumppaa-monitoimialtaalla/,Sports and Fitness,postal_first,geoapi,Seinäjoki,Seinäjoki,1,CITY,CITY,1,,Seinäjoki,0,,3.72
+41,https://yle.fi/a/3-12636602,Local News,postal_first,geoapi,Lieksa,Lieksa,1,CITY,CITY,1,,Lieksa,0,,38.3
+42,https://poliisi.fi/-/poliisi-ei-epaile-rikosta-lampokeskukseen-tunkeutumisesta-helsingissa,Authority Info,postal_first,geoapi,Hernesaari,Hernesaari,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,,14.04
+43,https://www.suomenuutiset.fi/pahoinpitelyista-ja-ryostoista-epailty-nuorisojoukko-herattaa-huolta-ja-kuumotusta-helsingin-onnellisten-saarella/,Authority Info,postal_first,geoapi,Lauttasaari,Lauttasaari,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,,27.94
+44,https://poliisi.fi/-/poliisi-tutkii-vuosaaressa-tapahtunutta-tapon-yritysta,Authority Alerts,postal_first,geoapi,Vuosaari,Vuosaari,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,,13.36
+45,https://poliisi.fi/-/poliisi-jatkaa-malminkartanossa-tapahtuneen-henkirikoksen-tutkintaa,Authority Alerts,postal_first,geoapi,Malminkartano,Malminkartano,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,410,10.29
+46,https://poliisi.fi/-/poliisi-pyytaa-havaintoja-oulun-alppilassa-tapahtuneesta-torkeasta-ryostosta,Authority Alerts,postal_first,geoapi,Alppila,Alppila,1,POSTAL,POSTAL,1,Oulu,Oulu,1,,11.5
+51,https://tapahtumat.tampere.fi/fi-FI/page/65cb1b054921d33b28e7812b?count=24&sort=creationDate&reverse=true,Culture and Music,postal_first,geoapi,Tammela,Tampere,0,POSTAL,CITY,0,Tampere,Tampere,1,,63.7
+52,https://www.hel.fi/fi/uutiset/kallion-kesakatujen-rakentaminen-alkaa,Traffic and Street Work,postal_first,geoapi,Kallio,Kallio,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,530,99.68
+54,https://www.hel.fi/fi/uutiset/itavaylan-ylittava-silta-suljetaan-korjauksen-ajaksi-kulosaaressa,Traffic and Street Work,postal_first,geoapi,Kulosaari,Kulosaari,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,570,64.33
+56,https://www.vantaa.fi/fi/ajankohtaista/uutinen/ratatien-lapiajo-paattyy,Traffic and Street Work,postal_first,geoapi,Tikkurila,Tikkurila,1,POSTAL,POSTAL,1,Vantaa,Vantaa,1,,29.21
+57,https://www.mtvuutiset.fi/artikkeli/espoon-matinkylassa-on-viime-vuosina-poltettu-ainakin-10-autoa-poliisi-tuskastuttavassa-tilanteessa-ei-ainoan-ainutta-vihjetta/7881806,Authority Info,postal_first,geoapi,Matinkylä,Matinkylä,1,POSTAL,POSTAL,1,Espoo,Espoo,1,2230,26.17
+59,https://www.ylojarvi.fi/verkkopuntari-hyvinvoinnin-verkkovalmennus-nuorille/,Sports and Fitness,postal_first,geoapi,Ylöjärvi,Ylöjärvi,1,CITY,CITY,1,,Ylöjärvi,0,,19.24
+60,https://saarijarvi.fi/ajankohtaista/saarijarven-kaupungin-vapaa-aikapalvelut-pyytaa-esityksia-vuonna-2025-menestyneista-urheilijoista/,Sports and Fitness,postal_first,geoapi,Saarijärvi,Saarijärvi,1,CITY,CITY,1,,Saarijärvi,0,,28.69
+55,https://www.hel.fi/fi/uutiset/fredrikintorin-peruskorjaus-alkaa-punavuoressa,City or Municipality,postal_first,geoapi,Punavuori,Punavuori,1,POSTAL,POSTAL,1,Helsinki,Helsinki,1,,28.68
+,,,,,,,,,,,,,,,26.23170732
